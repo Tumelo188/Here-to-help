@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
-
-<p>HTML Images</p>
-  <img src="https://images.app.goo.gl/z6oxWbEhXqmyEWb48" alt="Sunflower"/>
-  
-  </html>
+<head>
+    <title>HTML Images</title>
+</head>
+<body>
+    <p>HTML Images</p>
+    <img src="https://images.app.goo.gl/EKkyT8pwqSDAVxuHA.jpg" alt="big data"/>
+</body>
+</html>
