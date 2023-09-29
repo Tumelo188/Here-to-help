@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>HTML Images</title>
-</head>
-<body>
-    <p>HTML Images</p>
-    <img src="https://images.app.goo.gl/EKkyT8pwqSDAVxuHA.jpg" alt="big data"/>
-</body>
-</html>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3.png" alt="gfg3"/>
+
+
